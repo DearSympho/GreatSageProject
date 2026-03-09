@@ -1,0 +1,2 @@
+# GreatSageProject
+Discord collab game
