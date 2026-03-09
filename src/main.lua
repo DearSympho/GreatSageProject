@@ -15,7 +15,8 @@ local game = {
             text = {
                 "Welcome to the Great Sage Project.",
                 "This is a simple visual novel built with Love2D.",
-                "It's designed to be collaborative and fun!"
+                "It's designed to be collaborative and fun!",
+                "Great Sage says: Knowledge is power."
             },
             background = {0.2, 0.2, 0.3},
             nextScene = 2
@@ -32,7 +33,7 @@ local game = {
 }
 
 function love.load()
-    print("hello world")
+    print("Great Sage has arrived.")
     love.window.setTitle("Great Sage Project - Visual Novel")
     love.graphics.setBackgroundColor(unpack(game.scenes[game.currentScene].background))
     
