@@ -1,9 +1,9 @@
 function love.load()
-    print("hello world - AGI Confirmed - Ready for test - Running on web!")
+    print("Great Sage Project: Initialized.")
     
     -- Basic VN State
     state = {
-        text = "Great Sage Project: AGI Confirmed - Ready for test - Running on web!",
+        text = "Welcome to Great Sage Project.\n\nAGI Confirmed.",
         font = love.graphics.newFont(24)
     }
 end
