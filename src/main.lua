@@ -4,7 +4,7 @@ function love.load()
     
     -- Basic VN State
     state = {
-        text = "Welcome to Great Sage Project!\n\nThis is a simple visual novel style game.\nStay tuned for more updates!",
+        text = "LÖVE Web Build (v18) confirmed.\n\nGreat Sage Project: Monitoring active.\nStatus: Ready for Tasking.\n\n[Version 0.1.5]",
         font = love.graphics.newFont(24)
     }
 end
