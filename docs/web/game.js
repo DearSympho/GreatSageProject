@@ -284,6 +284,6 @@ Module.expectedDataFileDownloads++;
     }
 
   }
-  loadPackage({"package_uuid":"864af83f-5818-4b8d-8f18-82b59ac1abfb","remote_package_size":458,"files":[{"filename":"main.lua","crunched":0,"start":0,"end":458,"audio":false}]});
+  loadPackage({"package_uuid":"86e25cb5-6c78-45a7-b0b6-a9bd0ae2593d","remote_package_size":485,"files":[{"filename":"main.lua","crunched":0,"start":0,"end":485,"audio":false}]});
 
 })();
