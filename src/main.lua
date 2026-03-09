@@ -4,7 +4,7 @@ function love.load()
     
     -- Basic VN State
     state = {
-        text = "LÖVE Web Build (v16) confirmed.\n\nGreat Sage Project: Monitoring active.\nCORS test server added to docs/web.",
+        text = "LÖVE Web Build (v17) confirmed.\n\nGreat Sage Project: Monitoring active.\nStatus: Ready for Tasking.\n\n[Version 0.1.4]",
         font = love.graphics.newFont(24)
     }
 end
