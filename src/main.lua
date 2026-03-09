@@ -32,6 +32,7 @@ local game = {
 }
 
 function love.load()
+    print("hello world")
     love.window.setTitle("Great Sage Project - Visual Novel")
     love.graphics.setBackgroundColor(unpack(game.scenes[game.currentScene].background))
     
