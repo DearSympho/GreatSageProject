@@ -4,7 +4,7 @@ function love.load()
     
     -- Basic VN State
     state = {
-        text = "Python web server (v4) confirmed.\n\nGreat Sage Project: Testing complete.",
+        text = "Python web server (v5) confirmed.\n\nGreat Sage Project: Testing complete.",
         font = love.graphics.newFont(24)
     }
 end
