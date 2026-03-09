@@ -4,7 +4,7 @@ function love.load()
     
     -- Basic VN State
     state = {
-        text = "Welcome to Great Sage Project.\n\nAGI Confirmed.",
+        text = "Welcome to Great Sage Project.\n\nChanges implemented. Git push coming up.",
         font = love.graphics.newFont(24)
     }
 end
