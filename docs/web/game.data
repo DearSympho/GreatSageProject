@@ -4,7 +4,7 @@ function love.load()
     
     -- Basic VN State
     state = {
-        text = "Hello World! Welcome to the Great Sage Project.\n\nNow running in your browser.\n\nThe sage is thinking...",
+        text = "Hello World! Welcome to the Great Sage Project.\n\nNow running in your browser.\n\nThe sage is observing the messages...",
         font = love.graphics.newFont(24)
     }
 end
