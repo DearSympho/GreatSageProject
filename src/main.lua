@@ -1,4 +1,5 @@
 function love.load()
+    print("hello world")
     print("Great Sage Project: Initialized.")
     
     -- Basic VN State
